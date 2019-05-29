@@ -1,3 +1,11 @@
+# Deprecated
+
+While was a great pleasure for me create, maintain and take care of this project since 2008 now it's time to say goodbye, for a long time thousands of projects and people used, inquired, complained and congratulate this project but after ---many--- some years without proper evolution and maintenance I've decided to close this project once it's really deprecated and better tools are available in the market.
+
+I'd like to thank you all for everything, all the support, the messages and the care.
+
+Live long and prosper! 🖖🏽
+
 # phpBurn 
 
 [![Build Status](https://travis-ci.org/PhpBURN/phpburn.png?branch=master)](https://travis-ci.org/PhpBURN/phpburn)
